@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SHE_Software_Selenium_Project": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Key": "Value"
+      }
+    }
+  }
+}
